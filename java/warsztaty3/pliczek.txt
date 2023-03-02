@@ -1,0 +1,4 @@
+Dlugosc: 1
+Szerokosc: 2
+Wspolrzedne: (3,4)
+10
